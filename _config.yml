@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-baseurl: /change/
+baseurl: /change
 author: Jim
 pygments: true
 paginate: 24
