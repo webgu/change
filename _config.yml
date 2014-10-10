@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://blog.sevenche.com
+url: http://361get.com/dashjim.github.com
 author: Jim
 pygments: true
 paginate: 24
